@@ -1,1 +1,1 @@
-# Gerçek zamalı programlama ders1
+# Gerçek zamalı programlama ödev 1
