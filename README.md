@@ -1,1 +1,1 @@
-# ger-ek-amanl---dev1
+# Gerçek zamalı programlama ders1
